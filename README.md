@@ -1,3 +1,3 @@
 # Mieron Haileyesus
-# Data-Glacier-Internship
+# Data Glacier Internship
 # Batch: LISUM06
